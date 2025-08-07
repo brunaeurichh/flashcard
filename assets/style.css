@@ -43,6 +43,22 @@ backface-visibility: hidden;
     background-color: var(--card-front-color);
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
+
+    .cartao__conteudo p {
+    margin-top: 1rem;
+    padding: 2rem;
+    margin-top: 4rem;
+     font-size: 1.4vw;
+}
+.cartao__conteudo__pergunta p{
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.cartao__conteudo__resposta p{
+    color: var(--card-back-color);
+    font-weight: 700;
+
 }
 footer {
 background-color: rgba(191, 97, 245, 0.61);
