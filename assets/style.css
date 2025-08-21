@@ -1,7 +1,7 @@
 :root {
-    --text-color: #000203;
-    --card-front-color: #ee2f78;
-    --card-back-color: #f00888;
+    --text-color: #f6fcff;
+    --card-front-color: #e41665ce;
+    --card-back-color: #f3c8e0;
 
 }
 
@@ -20,7 +20,7 @@ body {
 
 .cartao {
 margin: 1rem 1rem;
-background-color: rgb(245, 167, 198);
+background-color: rgba(245, 167, 198, 0.63);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
@@ -80,8 +80,8 @@ backface-visibility: hidden;
 }
 
 footer {
-background-color: rgb(236, 37, 74);
-color: rgb(238, 69, 108);
+background-color: rgba(241, 49, 85, 0.788);
+color: rgb(230, 224, 225);
 bottom:0;
 position:fixed;
 width:100%;
