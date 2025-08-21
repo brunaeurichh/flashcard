@@ -19,3 +19,4 @@ criaCartao(
     'Física',
     'O que é física?',
     'Física é a ciência que estuda a natureza e suas leis, investigando as propriedades da matéria, energia e suas interações'
+)
